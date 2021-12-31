@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ConsoliAds-Vungle-Adapter_Example' do
+  pod 'ConsoliAds-Vungle-Adapter', :path => '../'
+
+  target 'ConsoliAds-Vungle-Adapter_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end

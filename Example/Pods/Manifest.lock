@@ -1,0 +1,27 @@
+PODS:
+  - ConsoliAds-Vungle-Adapter (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - ConsoliAds-Vungle-Adapter (from `../`)
+  - FBSnapshotTestCase
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  ConsoliAds-Vungle-Adapter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ConsoliAds-Vungle-Adapter: 4b2cb37c1c09ecbd554eebe214ff2ff74a52d7e1
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 1b4eb983db533cbdee12addb1729e83f43e264bc
+
+COCOAPODS: 1.11.2
