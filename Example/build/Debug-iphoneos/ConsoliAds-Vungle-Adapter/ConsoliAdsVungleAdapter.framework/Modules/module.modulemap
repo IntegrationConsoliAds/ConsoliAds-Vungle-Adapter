@@ -1,0 +1,6 @@
+framework module ConsoliAdsVungleAdapter {
+  umbrella header "ConsoliAdsVungleAdapter.h"
+
+  export *
+  module * { export * }
+}
