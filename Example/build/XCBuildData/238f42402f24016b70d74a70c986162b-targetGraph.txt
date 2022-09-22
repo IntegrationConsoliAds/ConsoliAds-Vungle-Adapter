@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+ConsoliAds-Vungle-Adapter in Pods, no dependencies
+Pods-ConsoliAds-Vungle-Adapter_Example in Pods, depends on:
+ConsoliAds-Vungle-Adapter in Pods (explicit)
